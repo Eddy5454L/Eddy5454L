@@ -11,7 +11,6 @@ https://github.com/user-attachments/assets/95f478e0-536b-4914-841f-f583770c52fb
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   ## APA KABAR GUYS
-  [![Deskripsi Video](https://img.youtube.com/vi/ID_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_VIDEO)
 
 <!---
 Eddy5454L/Eddy5454L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
