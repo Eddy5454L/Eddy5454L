@@ -1,5 +1,14 @@
 ## WELCOME TO MY HOME (`#0969DA)
 
+<details>
+ <summary>TENTANG KEBUTUHAN KU</summary>
+  
+  |  BUAH  |  JUMLAH |
+  |---   |---   |
+  |mangga|  10  |
+  |Jeruk |  20  |
+</details>
+
 
 
 
