@@ -1,14 +1,15 @@
 ## WELCOME TO MY HOME (`#0969DA)
 
 <details>
- <summary>TENTANG KEBUTUHAN KU</summary>
-  
-  |  BUAH  |  JUMLAH |
+ <summary>TENTANG RUMAH KU</summary>
+  <!--- tambahkan otem disini --->
+ 
+  |  RUANG |  JUMLAH |
   |---   |---   |
-  |mangga|  10  |
-  |Jeruk |  20  |
+  |TIDUR|  10  |
+  |WC |  20  |
 </details>
-
+<!--- masukan lagi item disini --->
 
 
 
